@@ -1,4 +1,4 @@
-# Parcial Primer Tercio - Servidor Fachada de calculo.
+# Parcial Primer Tercio - Servidor De calculo.
 
 Aplicativo Web diseñado en Java que hace uso de Spark, para realizar los calculos de seno, coseno y tangente
 
@@ -19,7 +19,7 @@ Adicionalmente se recomienda tener descargado los siguientes programas:
 > * [Como Instalar Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### Despliegue en Heroku
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://andrescalderonservidorconsumid.herokuapp.com/)
+[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://andrescalderonservidorcalc.herokuapp.com/)
 
 ### Instalación
 
