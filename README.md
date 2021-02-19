@@ -19,7 +19,7 @@ Adicionalmente se recomienda tener descargado los siguientes programas:
 > * [Como Instalar Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### Despliegue en Heroku
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://andrescalderonservidorcalc.herokuapp.com/)
+[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://andrescalderonservidorcalc.herokuapp.com/fachada?valor=5&funcion=tan)
 
 ### Instalación
 
