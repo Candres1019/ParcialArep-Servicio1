@@ -21,7 +21,7 @@ public class SparkWebServiceCalculator {
         Calculadora calculadora = new Calculadora();
         port(getPort());
         init();
-        get("/fachada", (request, response) -> {
+        get("/calculador", (request, response) -> {
             response.type("application/json");
             String valor = request.queryParams("valor");
             String funcion = request.queryParams("funcion");

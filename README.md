@@ -54,7 +54,7 @@ Adicionalmente se recomienda tener descargado los siguientes programas:
 4. Para ver el aplicativo web de manera local ingresaremos por la siguiente URI 
    
     > ```
-    > http://localhost:4568/fachada?valor={valor}&funcion={funcion}
+    > http://localhost:4568/calculador?valor={valor}&funcion={funcion}
     > ```
 
 5. Por defecto se creó la documentación JavaDoc y fue dejada en el directorio /Javadoc, si desea generar uno nuevo
