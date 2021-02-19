@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"edu.escuelaing.arep.ParcialPrimerTercio.app.Calculadora","l":"Calculadora"},{"p":"edu.escuelaing.arep.ParcialPrimerTercio.app","l":"SparkWebServiceCalculator"}];updateSearchResults();
